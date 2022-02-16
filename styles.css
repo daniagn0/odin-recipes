@@ -1,0 +1,34 @@
+body {
+    font font-family: sans-serif;
+    
+}
+
+/*home page css*/
+
+.home-h1{
+    text-align: center;
+    color: coral;
+}
+
+.menu{
+    list-style: none;
+}
+.menu li {
+    padding: 20px;
+    text-align: center;
+}
+
+/*recipes css*/
+
+.page-title {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(39, 179, 204);
+}
+
+.ingredients {
+    margin: 3px;
+    border-color: red;
+    border-style: dotted;
+}
+
